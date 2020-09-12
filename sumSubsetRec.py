@@ -1,6 +1,10 @@
 # Subset Sum Problem
 # Recursive solution
 
+'''
+Given a set of non-negative integers, and a value sum, determine if there is a subset of the given set with sum equal to given sum.
+'''
+
 def checkSubset(set,n,sum):
     #base cases
     if sum==0:
