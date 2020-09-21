@@ -2,7 +2,6 @@
 '''
 Question: Given an integer array nums, find the sum of the elements between indices i and j (i ≤ j), inclusive.
 '''
-
 # A brute force approach would be to loop through elements from i to j
 # To speed up the calculation, we have take have to caching
 
